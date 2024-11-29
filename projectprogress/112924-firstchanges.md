@@ -11,14 +11,21 @@
 
 ### TO DO LIST
 
-[ ] Change license in Github mismo
-[ ] Change assets
-[ ] Write Now page content
-[ ] Build Now archive to be accessed later
-[ ] Address errors
-[ ] Create page with all notes that has filter
+- [ ] Change license in Github mismo
+- [ ] Change assets
+- [ ] Write Now page content
+- [ ] Build Now archive to be accessed later
+- [ ] Address errors
+- [ ] Create page with all notes that has filter
 
-Filter [1] recently updated posts / posts that were updated long ago, as well as [2] status (resonates, discussing, applicable, or archived), [3] notes that have logs / notes don't have logs
+I want the filter to have the following
+- Recently updated posts / posts that were updated long ago
+- Status
+-   Resonates
+-   Discussing
+-   Applicable
+-   Archived
+- Notes that have logs / notes don't have logs
 
 ## Each note has a blog of its own
 
