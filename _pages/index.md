@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-# Hey! 🐶
+# Hey! 😀
 
-This garden is an early Work in Progress! Feel free to take a look at **[[garden-origins|the origins]]** and **[[garden-plans|my current plans]]** for this garden.
+Feel free to take a look at **[[about|what this is all about]]** and **[[now|the current situation.]]** You can find the full list of notes [here](/_pages/all-notes.md)
 
 <hr />
 
