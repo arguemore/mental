@@ -7,8 +7,6 @@
 - Assigned license
 - Built website
 
-//TODO
-
 ### TO DO LIST
 
 - [ ] Change license in Github mismo
@@ -20,11 +18,7 @@
 
 I want the filter to have the following
 - Recently updated posts / posts that were updated long ago
-- Status
--   Resonates
--   Discussing
--   Applicable
--   Archived
+- Status (Resonates, Discussing, Applicable, Archived)
 - Notes that have logs / notes don't have logs
 
 ## Each note has a blog of its own
