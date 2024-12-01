@@ -3,6 +3,7 @@ title: "Cloud Computing: An extensive guide"
 short-title: Cloud Computing
 subtitle: Why should you stop having everything in your single VPS from OVH and calling it a day
 tags: web
+published: false
 ---
 
 #### Alternate subtitle: How computers, despite being nasty creatures working against humanity (sometimes), can be really pleasant to work with
