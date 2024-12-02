@@ -1,6 +1,7 @@
 ---
 title: Loss of Future Dimension
 tags: statement, effect
+published: true
 ---
 
 ### What is it?
