@@ -5,13 +5,21 @@ status: none
 logs: false
 ---
 
-## Right. What's all this then?
+## Right, what's all this then?
 
 This is where I'll be documenting my discoveries about my mental health issues, how to go about resolving them, log my next steps, and write my updates about how it's going.
 
-## Legend
+## Who is Gregor Samsa?
 
-There are two kind of notes in this site: notes and logs.
+Gregor Samsa is the main character in Franz Kafka's short story, The Metamorphosis. I find that I relate to him in a lot of ways, especially when it comes to family.
+
+Gregor Samsa is a traveling salesman who wakes up one day to find that he has transformed into a giant insect. His family is disgusted with him, especially when he is no longer able to earn income. Gregor eventually dies after deciding that he is a burden to his family.
+
+In The Metamorphosis, Kafka explores various themes. The main themes explored within the story are alienation, the complexities of familial relationships, absurdism, and transformation.
+
+## Contents of this site
+
+There are three kinds of notes in this site: notes, solutions and logs.
 
 Notes are things that I resonate with in the world of psychology, things that I finally found names for that could apply to my situation. 
 
