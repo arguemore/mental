@@ -1,5 +1,6 @@
 ---
 title: Loss of the Future Dimension
+subtitle: Otherwise known as Sense of Foreshortened Future
 tags: note, cause
 status: resonates
 logs: false
