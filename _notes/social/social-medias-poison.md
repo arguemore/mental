@@ -3,6 +3,7 @@ title: Social media are a hell of a poison
 short-title: Social media are bad
 subtitle: And why you should not feel bad about being trapped in there.
 tags: social
+published: false
 ---
 
 - Engagement metrics are the worst, so many people swear by it. I don't blame anyone falling for those, the system is just really well engineered to trap as much people as possible. They're *made* to trick us. Please don't feel bad for falling for that.

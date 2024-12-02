@@ -3,6 +3,7 @@ title: Caring about performance in websites
 short-title: Performance in websites
 subtitle: Crafting innovative and dynamic experiences without sacrificing usability
 tags: web
+published: false
 ---
 
 Here are my personal tips in order to make about any crazy creative webpage run very well on about any device.  
