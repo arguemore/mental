@@ -20,19 +20,21 @@ In The Metamorphosis, Kafka explores various themes. The main themes explored wi
 
 ## Contents of this site
 
-There are three kinds of notes in this site: notes, solutions and logs.
+**There are two kinds of pages in this site: notes and logs.** 
 
 Notes are things that I resonate with in the world of psychology, things that I finally found names for that could apply to my situation. 
 
-Notes are not absolute. They will be discussed with the appropriate professionals that I see. Notes could either be caused by another note or is an effect of another note.
+**There are three kinds of notes: experiences, behaviors, and solutions.** I think they're pretty self-explanatory. 
+
+**Notes are not absolute.** They will be discussed with the appropriate professionals that I see. Notes could either be caused by another note or is an effect of another note.
 
 A note will have a status which will say if it applies to me or if it doesn't. Why it applies or why it doesn't apply will also be explained.
 
-The statuses are: resonates, discussing, applicable, or archived.
+**The statuses are: resonates, discussing, applicable, or archived.**
 
-Another thing is that the notes have logs.
+Another thing is that the notes could have logs.
 
-Logs are log entries of my progress, updates, or findings about a statement and how it's related to me. 
+**Logs are entries of my progress, updates, or findings** about a note. 
 
 ## Credits and changes
 
