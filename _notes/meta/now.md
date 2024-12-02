@@ -3,6 +3,17 @@ title: Now
 tags: meta
 status: none
 logs: false
+published: true
 ---
 
-Every day feels like I'm trying to stay afloat. Check out [[about]] for more.
+Please read the [[disclaimer]] before delving into the subject matter. See [[about]] if you need more information.
+
+**What I Experience:**
+- Double Bind
+- Scorekeeping
+- Emotional Blackmail
+
+
+**Behaviors Learned:**
+- [[Loss of the Future Dimension]]
+- [[Bound by External Stimuli]]

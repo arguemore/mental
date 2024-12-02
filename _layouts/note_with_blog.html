@@ -19,6 +19,10 @@ layout: note
             {% for tag in page.tags %}
               <span class="tag">{{ tag | strip }}</span>
             {% endfor %}
+            {% if page.status and page.status != 'none' %}
+              &nbsp;|&nbsp;
+              Status: <span class="status">{{ page.status }}</span>
+            {% endif %}
           </small>
         {% endif %}
       {% endif %}

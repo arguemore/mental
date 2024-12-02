@@ -7,7 +7,7 @@ permalink: /
 
 # Hey! 😀
 
-Feel free to take a look at **[[about|what this is all about]]** and **[[now|the current situation.]]** You can find the full list of notes [here](/_pages/all-notes.md)
+Feel free to take a look at **[[about|what this is all about]]** and **[[now|the current situation.]]**
 
 <hr />
 

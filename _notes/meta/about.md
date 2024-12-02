@@ -3,6 +3,7 @@ title: About
 tags: meta
 status: none
 logs: false
+published: true
 ---
 
 ## Right, what's all this then?
@@ -23,7 +24,9 @@ There are three kinds of notes in this site: notes, solutions and logs.
 
 Notes are things that I resonate with in the world of psychology, things that I finally found names for that could apply to my situation. 
 
-Notes are not absolute. They will be discussed with the appropriate professionals that I see. A note will have a status which will say if it applies to me or if it doesn't. Why it applies or why it doesn't apply will also be explained.
+Notes are not absolute. They will be discussed with the appropriate professionals that I see. Notes could either be caused by another note or is an effect of another note.
+
+A note will have a status which will say if it applies to me or if it doesn't. Why it applies or why it doesn't apply will also be explained.
 
 The statuses are: resonates, discussing, applicable, or archived.
 
