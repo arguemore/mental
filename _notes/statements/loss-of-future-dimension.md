@@ -1,6 +1,8 @@
 ---
 title: Loss of Future Dimension
 tags: statement, effect
+status: resonates
+logs: false
 published: true
 ---
 
