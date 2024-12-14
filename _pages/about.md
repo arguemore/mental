@@ -1,10 +1,10 @@
 ---
+layout: page
 title: About
-tags: meta
-status: none
-logs: false
-published: true
+permalink: /about
 ---
+
+![Charlie Day from It's Always Sunny in Philadelphia in front of an investigation board](https://media1.tenor.com/m/4LvAD8hD5tcAAAAd/charlie-day.gif)
 
 ## Right, what's all this then?
 
@@ -20,11 +20,15 @@ In The Metamorphosis, Kafka explores various themes. The main themes explored wi
 
 ## Contents of this site
 
-There are three kinds of notes in this site: notes, solutions and logs.
+These are the kinds of notes in this site:
+- My **experiences**
+- My **behaviors** now as a result of those experiences
+- Proposed **solutions** to the behaviors I have to unlearn
+- **Logs** of my progress with regards to the proposed solutions
 
 Notes are things that I resonate with in the world of psychology, things that I finally found names for that could apply to my situation. 
 
-Notes are not absolute. They will be discussed with the appropriate professionals that I see. Notes could either be caused by another note or is an effect of another note.
+Notes are not absolute. They will be discussed with the appropriate professionals that I see.
 
 A note will have a status which will say if it applies to me or if it doesn't. Why it applies or why it doesn't apply will also be explained.
 
