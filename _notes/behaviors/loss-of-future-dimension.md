@@ -1,6 +1,6 @@
 ---
 title: Loss of the Future Dimension
-tags: no
+tags: behavior
 status: resonates
 logs: false
 published: true

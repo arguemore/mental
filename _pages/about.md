@@ -32,11 +32,11 @@ Notes are not absolute. They will be discussed with the appropriate professional
 
 A note will have a status which will say if it applies to me or if it doesn't. Why it applies or why it doesn't apply will also be explained.
 
-The statuses are: resonates, discussing, applicable, or archived.
+**The statuses are: resonates, discussing, applicable, or archived.**
 
-Another thing is that the notes have logs.
+Another thing is that the notes could have logs.
 
-Logs are log entries of my progress, updates, or findings about a statement and how it's related to me. 
+**Logs are entries of my progress, updates, or findings** about a note. 
 
 ## Credits and changes
 

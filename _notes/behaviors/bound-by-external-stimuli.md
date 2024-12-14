@@ -1,6 +1,6 @@
 ---
 title: Bound By External Stimuli
-tags: note, effect
+tags: behavior
 status: resonates
 logs: false
 published: true

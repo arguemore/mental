@@ -30,7 +30,7 @@ Feel free to take a look at **[[about|what this is all about]]** and **[[now|the
 
 **Don't know where to start?** Here are a few tags to get started.
 
-{% assign recommended_tags = "meta,cause,effect" | split: ',' %}
+{% assign recommended_tags = "experience,behavior,solution" | split: ',' %}
 {% for tag in recommended_tags %}
 ##### Recent <span class="tag">{{ tag }}</span> pages
   <ul>
