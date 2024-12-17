@@ -29,7 +29,7 @@ Because of the shame and the guilt this inability to plan things out causes, I k
 
 ## How does this affect others in my life?
 
-Since I cannot estimate time properly or manage time properly, people undestandably get pissed at me for not being able to deliver the way that I promised. Whether it is a deliverable or a getting to a certain place on time, I have had my fair share of people getting disappointed because I don't know how to be punctual. 
+Since I cannot estimate time properly or manage time properly, people undestandably get pissed at me for not being able to deliver the way that I promised. Whether it is a deliverable or a getting to a certain place on time, I have had my fair share of people getting disappointed because I don't know how to be punctual. The disappointment is something that revitalizes my guilt and shame and helps the cycle of self-hatred and self-sabotage continue. 
 
 ## What are proposed ways of dealing with it?
 
