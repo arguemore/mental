@@ -23,7 +23,7 @@ As Dr. K continues to state in the video, "when you grow up in a home environmen
 
 This has made it hard for me to keep commitments and manage time properly. I have also not been able to earn. Because in order to earn, you need to set out some time to do work, and I don't really have the luxury of having my own time; Or having the luxury of being able to say no to the tasks my mother orders me to do, and have that boundary be respected. When I have to do work, I have to do it when everyone else is asleep so I won't be disturbed. 
 
-[comment]: Have boundary be respected above link to narcissistic abuse post. Have trying to please other people below link to emotional neglect post. Also, reflect on mama wanting you to be on standby all the time and how that was what happened to her as a kid. 
+[//]: # Have boundary be respected above link to narcissistic abuse post. Have trying to please other people below link to emotional neglect post. Also, reflect on mama wanting you to be on standby all the time and how that was what happened to her as a kid. 
 
 Because of the shame and the guilt this inability to plan things out causes, I keep trying to please other people by saying that I can perform so that I can get jobs and prove my shame and guilt wrong. However, this always backfires on me because delivering on time poses a challenge when you don't own your own time, and when you can't plan ahead of you.
 
