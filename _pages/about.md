@@ -43,6 +43,7 @@ Another thing is that the notes could have logs.
 The main source code for the theme is from [HeySora.net](https://github.com/HeySora/garden.heysora.net). I tweaked the theme a little to suit my needs. Here are the list of changes, codewise and systemwise:
 
 - Sora's original notes not included
+- Original proprietary fonts and background not included
 - Divided the notes into notes and logs, with notes having a feed of logs to track my progress or findings with a certain note
 - The graph only generating notes
 - Added statement status to check whether the statement still applies to me or not
