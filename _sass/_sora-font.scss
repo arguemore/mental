@@ -1,5 +1,4 @@
 /*! Replaced Sora's proprietary font Suisse with Sora font by Jonathan Barnbrook and Julián Moncada  */
-/* src: url('https://www.heysora.net/fonts/#{$family}-#{$name}-WebS.woff2') format('ttf'); */
 
 @mixin sora-font($family, $weight: 400, $name: 'Regular', $style: normal) {
     @font-face {
