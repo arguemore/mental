@@ -148,7 +148,7 @@ DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-last-modified-at!
   nokogiri
-  webrick (~> 1.7)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.5.11
